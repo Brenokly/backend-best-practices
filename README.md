@@ -172,7 +172,7 @@ public class LogService {
 }
 ```
 
-## **Autor:** Breno Klywer
-# 💼 [LinkedIn](https://www.linkedin.com/in/brenokl/) | 🌐 [GitHub](https://github.com/seu-usuario)
+**Autor:** Breno Klywer
+ 💼 [LinkedIn](https://www.linkedin.com/in/brenokl/) | 🌐 [GitHub](https://github.com/BrenoKly)
 
 ---
