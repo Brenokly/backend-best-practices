@@ -52,7 +52,6 @@ A estrutura será organizada por temas:
 Este repositório irá focar em linguagens e frameworks amplamente usados no backend:
 
 - **Java (Spring Boot)** – para Clean Architecture, SOLID e APIs REST
-- **Node.js (TypeScript)** – para práticas rápidas e exemplos de APIs limpas
 
 Cada conceito terá exemplos implementados **em pelo menos uma dessas linguagens**.
 
@@ -172,20 +171,6 @@ public class LogService {
     }
 }
 ```
-
----
-
-## 🤝 Contribuições
-
-Este repositório é público e qualquer contribuição é bem-vinda!
-Se quiser sugerir melhorias, envie uma **issue** ou abra um **pull request**.
-
----
-
-## 📝 Licença
-
-Este projeto é distribuído sob a licença MIT.
-Sinta-se livre para usar e adaptar os exemplos conforme necessário.
 
 ---
 
