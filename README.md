@@ -1,4 +1,3 @@
-```markdown
 # 🏗 Backend Best Practices: Clean Code, SOLID e Clean Architecture
 
 > **Repositório de estudo e demonstração de boas práticas de programação backend.**  
@@ -86,7 +85,7 @@ Cada conceito terá exemplos implementados **em pelo menos uma dessas linguagens
 ---
 
 ## 🛠 Roadmap de Evolução
-```markdown
+```
 - [x] Revisar e aplicar princípios SOLID
 - [x] Criar exemplos de refatoração com Clean Code
 - [ ] Implementar API usando Clean Architecture
