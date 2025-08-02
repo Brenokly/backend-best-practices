@@ -53,7 +53,6 @@ Este repositório irá focar em linguagens e frameworks amplamente usados no bac
 
 - **Java (Spring Boot)** – para Clean Architecture, SOLID e APIs REST
 - **Node.js (TypeScript)** – para práticas rápidas e exemplos de APIs limpas
-- **Python (FastAPI)** – para protótipos rápidos e clareza de código
 
 Cada conceito terá exemplos implementados **em pelo menos uma dessas linguagens**.
 
