@@ -1,5 +1,5 @@
 ## 📁 `clean-architecture/README.md`
-```markdown
+
 # 🏛 Clean Architecture
 
 **Clean Architecture** é um padrão arquitetural que separa regras de negócio da infraestrutura, promovendo **baixo acoplamento** e **alta testabilidade**.
