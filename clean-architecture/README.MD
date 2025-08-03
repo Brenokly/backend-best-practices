@@ -29,8 +29,6 @@
 
 ```
 
----
-
 ## 📂 Estrutura desta pasta
 ```
 
