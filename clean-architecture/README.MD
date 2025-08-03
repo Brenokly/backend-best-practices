@@ -27,7 +27,7 @@
 \|      Entities        |  -> (Regras de negócio)
 +----------------------+
 
-```
+---
 
 ## 📂 Estrutura desta pasta
 ```
