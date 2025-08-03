@@ -24,14 +24,11 @@ Testes automatizados garantem que o código funcione conforme esperado e permane
 
 ## 📂 Estrutura desta pasta
 ```
-
 📂 testing/
 ├── README.md
 └── exemplos/
 ├── unitarios/
 ├── integracao/
 └── tdd/
-
 ```
-
 ---
