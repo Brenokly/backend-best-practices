@@ -30,7 +30,6 @@
 ---
 
 ## 📂 Estrutura desta pasta
-```
 
 📂 clean-architecture/
 ├── README.md
