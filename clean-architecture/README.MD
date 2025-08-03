@@ -15,7 +15,7 @@
 ---
 
 ## 🎨 Camadas da arquitetura
-````
+```
 
 +----------------------+
 \|   Framework & UI     |  -> (ex: Controllers, REST)
@@ -27,6 +27,7 @@
 \|      Entities        |  -> (Regras de negócio)
 +----------------------+
 
+```
 ---
 
 ## 📂 Estrutura desta pasta
