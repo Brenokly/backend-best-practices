@@ -20,7 +20,7 @@ Os princípios SOLID são cinco diretrizes fundamentais para design orientado a 
    - Exemplo: Se `Quadrado` herda de `Retângulo`, ele deve se comportar como tal.
 
 4. **ISP (Interface Segregation Principle)**
-   - Criar interfaces **específicas e pequenas**, em vez de uma única interface genérica.
+   - Criar interfaces **específicas e pequenas**, em vez de uma única interface genérica, porque uma classe não deve ser forçada a implementar interfaces e métodos que não irão utilizar.
    - Exemplo: Interfaces distintas para `IPrinter` e `IScanner`, em vez de `IMachine`.
 
 5. **DIP (Dependency Inversion Principle)**
